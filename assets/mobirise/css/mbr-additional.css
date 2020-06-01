@@ -715,17 +715,16 @@ section.lazy-placeholder:after {
   padding-bottom: 75px;
   background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-s07bq2yyeR {
-  background: #232323;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #232323, #232323);
+.cid-s0Cm5JWGxq {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
-.cid-s07bq2yyeR .video-block {
+.cid-s0Cm5JWGxq .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-s07bq2yyeR .video-block {
+  .cid-s0Cm5JWGxq .video-block {
     width: 100% !important;
   }
 }
@@ -771,14 +770,6 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 120px;
   background-color: #232323;
-}
-.cid-s07vIMPjjD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/logo-rede-vc-1380x776.png");
-}
-.cid-s07vIMPjjD P {
-  color: #767676;
 }
 .cid-s024CJnGHG {
   padding-top: 90px;
