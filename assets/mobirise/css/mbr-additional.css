@@ -711,8 +711,8 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s0d4ebP9cf {
-  padding-top: 15px;
-  padding-bottom: 75px;
+  padding-top: 30px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-s0Cm5JWGxq {
@@ -768,12 +768,12 @@ section.lazy-placeholder:after {
 }
 .cid-s03Zs9ZMqw {
   padding-top: 30px;
-  padding-bottom: 120px;
+  padding-bottom: 105px;
   background-color: #232323;
 }
 .cid-s024CJnGHG {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background: linear-gradient(45deg, #232323, #232323);
 }
 @media (min-width: 992px) {
@@ -786,9 +786,17 @@ section.lazy-placeholder:after {
     padding-top: 3rem;
   }
 }
-.cid-s07joHgkZS {
+.cid-s0GAG0ChII {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s0GAG0ChII P {
+  color: #767676;
+}
+.cid-s07joHgkZS {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s07joHgkZS .mbr-slider .carousel-control {
@@ -849,6 +857,8 @@ section.lazy-placeholder:after {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-s0d8A6qRAe {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/rede-de-drogarias-1280x1280.jpg");
 }
 .cid-s0czZ1GjKH {
@@ -1040,7 +1050,7 @@ section.lazy-placeholder:after {
 }
 .cid-s046p5fyis {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background: linear-gradient(45deg, #232323, #232323);
 }
 @media (min-width: 992px) {
@@ -1159,7 +1169,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0drKJxVrd {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 .cid-s0drKJxVrd .mbr-text {
@@ -1180,14 +1190,14 @@ section.lazy-placeholder:after {
   color: #cccccc;
 }
 .cid-s0ewO7fyvX {
-  padding-top: 90px;
+  padding-top: 15px;
   padding-bottom: 90px;
   background: linear-gradient(45deg, #232323, #232323);
 }
 .cid-s0ewJ5eXL9 {
   background: #232323;
   padding-top: 0px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
 }
 .cid-s0ewJ5eXL9 .video-block {
   margin: auto;
