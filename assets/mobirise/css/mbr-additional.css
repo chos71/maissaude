@@ -716,11 +716,12 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-s0Cm5JWGxq {
-  background: #ffffff;
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-s0Cm5JWGxq .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s0Cm5JWGxq .video-block {
